@@ -10,7 +10,7 @@ content-type: application/json
 
 
 {
-     "title": "cute fubao",
+     "title": "cutie fubao",
   "author": "fubao",
   "url": "www.fubao.com",
   "likes": 20
